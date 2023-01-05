@@ -233,65 +233,46 @@ footer {
     margin-left: 100px;
     width: 120%;
   }
-}
 
-
-@media screen and (max-width: 425px) {
   nav {
     margin-left: 180px;
   }
-}
 
-@media screen and (max-width: 425px) {
   main {
     display: block;
   }
-}
 
-@media screen and (max-width: 425px) {
   .nav-list {
     margin-left: 30px;
     width: 120%;
   }
-}
 
-@media screen and (max-width: 425px) {
   .main-visual {
    margin-left: 100px;
    width: 120%; 
   }
-}
 
-@media screen and (max-width: 425px) {
   .blog {
     width: 90%;
   }
-}
 
-@media screen and (max-width: 425px) {
   .blog-box {
     margin-left: 100px;
     width:100%;
   }
-}
 
-@media screen and (max-width: 425px) {
   .sidebar {
     width: 90%;
     margin-top: 100px;
   }
 }
 
-@media screen and (max-width: 425px) {
   .sidebar-contents {
     text-align: center;
-  }
 }
-
-@media screen and (max-width: 425px) {
+  
   footer {
     width: 180%;
-  }
 }
 
 /* 425pxに対応させました。(終) */
